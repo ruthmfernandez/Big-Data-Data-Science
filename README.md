@@ -1,2 +1,2 @@
-# Big-Data-Data-Science
+# No-SQL
 File course's
